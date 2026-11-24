@@ -1,0 +1,16 @@
+{
+  "CNN (from scratch)": {
+    "test_accuracy": 0.4194999933242798,
+    "test_loss": 1.670613408088684,
+    "train_time_sec": 532,
+    "params": 306602,
+    "epochs": 8
+  },
+  "EfficientNetB0 (pretrained)": {
+    "test_accuracy": 0.734499990940094,
+    "test_loss": 0.7223424911499023,
+    "train_time_sec": 276,
+    "params": 4062381,
+    "epochs": 5
+  }
+}
